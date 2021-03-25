@@ -51,7 +51,7 @@ PySocks==1.7.1
 python-dateutil==2.8.0
 pytz==2019.3
 PyWavelets==1.1.1
-PyYAML==5.3
+PyYAML==5.4
 pyzmq==18.1.0
 requests==2.22.0
 scikit-image==0.16.2
